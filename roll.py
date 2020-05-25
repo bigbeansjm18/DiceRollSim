@@ -8,6 +8,7 @@ firstAct = input("Type roll to start or quit to exit.")
 #roll function
 if firstAct == "roll":
     print("rolled")
+    
 #quit function
 elif firstAct == "quit":
     print("Exiting DRS!")
